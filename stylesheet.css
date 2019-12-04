@@ -1,0 +1,82 @@
+/* ヘッダー */
+header {
+  background-image: url("img/002.jpg");
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top:0;
+  padding-top:1px;
+}
+
+/* main-header */
+#main-header {
+  margin-top:0;
+}
+
+/* body */
+body {
+  margin-top: 0;
+}
+
+/* リンク */
+a {
+  color: black;
+}
+
+#modal-link {
+  color:blue;
+}
+
+/* パンくずリスト */
+.topicPath {
+  front-size: 12px;
+  padding-left: 20px;
+}
+
+/* Homeトップ画像 */
+p.top-image {
+  img{width: 80%;}
+}
+
+/* サブタイトル */
+.subtitle {
+  border-bottom: dashed 1px rgb(43, 131, 215);
+}
+
+/* パネルバディ */
+.panel-body {
+  font-size: 12px;
+}
+
+/* お知らせ */
+#sub-information {
+  list-style: none;
+  padding: 0;
+}
+
+/*部活紹介　画像*/
+.about-img {
+  margin-bottom:20px;
+}
+
+/*部活紹介　テクスト１*/
+.about-text1 {
+  margin-bottom: 20px;
+}
+
+/* フッター */
+footer {
+  border-top: solid 1px #CCCCCC;
+  margin-top: 15px;
+}
+
+/* コピーライト */
+#copyright small{
+  font-size: 12px;
+  line-height: 1.5;
+  margin-left: 20px;
+}
+
+#goback {
+  margin: auto;
+}
